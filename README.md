@@ -48,7 +48,7 @@ lib/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/getx-app.git
+git clone https://github.com/Saqibfarooq20/getx.git
 ```
 
 2. Go to project folder:
